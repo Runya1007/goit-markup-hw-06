@@ -881,11 +881,8 @@ button {
 }
 
 @media screen and (min-width: 768px) {
-  .section-footer {
-    padding-left: 108px;
-  }
-
   .section-footer .container {
+    width: 584px;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 72px 12px;
